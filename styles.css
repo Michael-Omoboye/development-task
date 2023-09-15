@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+:root{
+    --clr--white-- : #FFFFFF;
+    --clr-black--: #000000;
+
+    --ff--montserrat--: 'Montserrat', sans-serif;
+
+    --fs-lg--:4em;
+    --fs--sm--:1.875em;
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
